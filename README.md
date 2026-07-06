@@ -6,23 +6,16 @@ This project demonstrates the setup and configuration of a Windows Server Active
 - Install and configure Windows Server
 - Promote server to Domain Controller
 - Configure static IP addressing
-  
 - Set up Active Directory Domain Services (AD DS)
-  
 - Create and manage domain users
-  
 - Test domain authentication
 
 # Tools Used
 
 - Windows Server 2022
-  
 - Active Directory Domain Services
-  
 - VirtualBox
-  
 - Group Policy Management Console
-  
 - Active Directory Users and Computers
 
 # Lab Steps Summary
