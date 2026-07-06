@@ -48,19 +48,24 @@ Successfully logged into domain using a test user account.
 Server Configuration
 
 ![Server-Manager](/Screenshots/Server-Manager.png)
-![SM-Local-Server](../Screenshots/SM-Local-Server.png)
+![SM-Local-Server](/Screenshots/SM-Local-Server.png)
 
-Active Directory Users and Computers
+Network Configuration
 
-(Add screenshot here)
+![IPv4-Properties](/Screenshots/IPv4-Properties.png)
 
-User Creation
+Active Directory Setup
 
-(Add screenshot here)
+![AD-DS-install](/Screenshots/AD-DS-install.png)
+![Domain-created](/Screenshots/Domain-created.png)
 
-Successful Domain Login
+User Management
 
-(Add screenshot here)
+![User-created](/Screenshots/User-created.png)
+
+Authentication Testing
+
+![SM-Local-Server](/Screenshots/Domain-User-Login.png)
 
 # Key Skills Demonstrated
 
