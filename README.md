@@ -45,9 +45,10 @@ Created and managed domain user accounts using Active Directory Users and Comput
 Successfully logged into domain using a test user account.
 
 # Screenshots
-Server Manager / AD DS Installation
+Server Configuration
 
-(Add screenshot here)
+![Server-Manager](../Screenshots/Server-Manager.png)
+![SM-Local-Server](../Screenshots/SM-Local-Server.png)
 
 Active Directory Users and Computers
 
