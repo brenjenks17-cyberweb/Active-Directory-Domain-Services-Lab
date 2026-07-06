@@ -4,8 +4,9 @@ This project demonstrates the setup and configuration of a Windows Server Active
 # Objectives
 
 - Install and configure Windows Server
-Promote server to Domain Controller
-Configure static IP addressing
+  
+- Promote server to Domain Controller
+- Configure static IP addressing
 Set up Active Directory Domain Services (AD DS)
 Create and manage domain users
 Test domain authentication
