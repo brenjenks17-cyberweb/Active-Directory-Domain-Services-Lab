@@ -34,7 +34,7 @@ Installed AD DS role and promoted server to a domain controller.
 4. Domain Setup
 
 Created a new forest:
-corp.local
+**corp.local**
 
 5. User Management
 
