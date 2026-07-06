@@ -47,7 +47,7 @@ Successfully logged into domain using a test user account.
 # Screenshots
 Server Configuration
 
-![Server-Manager](../Screenshots/Server-Manager.png)
+![Server-Manager](/Screenshots/Server-Manager.png)
 ![SM-Local-Server](../Screenshots/SM-Local-Server.png)
 
 Active Directory Users and Computers
