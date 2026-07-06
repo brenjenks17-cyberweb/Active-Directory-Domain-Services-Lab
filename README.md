@@ -45,7 +45,7 @@ Created and managed domain user accounts using Active Directory Users and Comput
 Successfully logged into domain using a test user account.
 
 # Screenshots
- # Server Configuration
+**Server Configuration**
 
 ![Server-Manager](/Screenshots/Server-Manager.png)
 ![SM-Local-Server](/Screenshots/SM-Local-Server.png)
