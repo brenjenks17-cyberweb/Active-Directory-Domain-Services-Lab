@@ -45,27 +45,27 @@ Created and managed domain user accounts using Active Directory Users and Comput
 Successfully logged into domain using a test user account.
 
 # Screenshots
-Server Configuration
+ # Server Configuration
 
 ![Server-Manager](/Screenshots/Server-Manager.png)
 ![SM-Local-Server](/Screenshots/SM-Local-Server.png)
 
-Network Configuration
+# Network Configuration
 
 ![IPv4-Properties](/Screenshots/IPv4-Properties.png)
 
-Active Directory Setup
+# Active Directory Setup
 
 ![AD-DS-install](/Screenshots/AD-DS-install.png)
 ![Domain-created](/Screenshots/Domain-created.png)
 
-User Management
+# User Management
 
 ![User-created](/Screenshots/User-created.png)
 
-Authentication Testing
+# Authentication Testing
 
-![SM-Local-Server](/Screenshots/Domain-User-Login.png)
+![Domain-User-Login](/Screenshots/Domain-User-Login.png)
 
 # Key Skills Demonstrated
 
