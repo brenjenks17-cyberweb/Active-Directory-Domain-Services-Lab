@@ -38,12 +38,16 @@ Created a new forest:
 
 5. User Management
 
-Created and managed domain user accounts using Active Directory Users and Computers.
+Created 3 Organizational Units (IT, Sales, HR) and 3 domain user accounts, one assigned to each OU, using Active Directory Users and Computers.
 
 6. Authentication Testing
 
-Successfully logged into domain using a test user account.
+Successfully logged into domain using each of the three domain user accounts (IT User, Sales User, HR User) to validate authentication.
 
+7. Group Policy Configuration
+
+Created and linked 2 Group Policy Objects: an Account Lockout Policy (5 invalid attempts, 30-minute lockout/reset) applied to the IT OU, and a Control Panel Restriction policy applied to the Sales OU. Diagnosed and resolved a Security Filtering issue preventing GPO application, then validated enforcement — including triggering and confirming an actual account lockout — using gpresult and Active Directory Users and Computers.
+ 
 # Screenshots
 **Server Configuration**
 
