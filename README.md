@@ -9,6 +9,8 @@ This project demonstrates the setup and configuration of a Windows Server Active
 - Set up Active Directory Domain Services (AD DS)
 - Create and manage domain users
 - Test domain authentication
+- Organize users into Organizational Units and configure Group Policy
+- Diagnose and resolve Group Policy application issues
 
 # Tools Used
 
@@ -78,6 +80,8 @@ Created and linked 2 Group Policy Objects: an Account Lockout Policy (5 invalid 
 - Domain Controller Configuration
 - Network Configuration (Static IP)
 - Troubleshooting Group Policy and Login Issues
+- Group Policy Object (GPO) Creation and Management
+- Security Filtering and Access Troubleshooting
 
 # Outcome
 
