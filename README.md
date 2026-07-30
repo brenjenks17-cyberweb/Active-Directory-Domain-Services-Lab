@@ -79,8 +79,7 @@ Created and linked 2 Group Policy Objects: an Account Lockout Policy (5 invalid 
 ![GPO-List](/Screenshots/GPO-List.png)
 ![Account-Lockout-Policy](/Screenshots/Account-Lockout-Policy.png)
 ![gpresult-Validation](/Screenshots/gpresult-Validation.png)
-![Account-Locked-Screen](/Screenshots/Account-Locked-Screen.png)
-
+![Account-Locked-Screen](/Screenshots/Account-Lockout-Screen.png)
 ![Account-Unlocked](/Screenshots/Account-Unlocked.png)
 
 # Key Skills Demonstrated
