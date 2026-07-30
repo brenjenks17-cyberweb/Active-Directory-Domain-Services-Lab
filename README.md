@@ -73,6 +73,14 @@ Created and linked 2 Group Policy Objects: an Account Lockout Policy (5 invalid 
 
 ![Domain-User-Login](/Screenshots/Domain-User-Login.png)
 
+**Group Policy Configuration**
+
+![OU-Structure](/Screenshots/OU-Structure.png)
+![GPO-List](/Screenshots/GPO-List.png)
+![Account-Lockout-Policy](/Screenshots/Account-Lockout-Policy.png)
+![gpresult-Validation](/Screenshots/gpresult-Validation.png)
+![Account-Locked-Screen](/Screenshots/Account-Locked-Screen.png)
+
 # Key Skills Demonstrated
 
 - Windows Server Administration
